@@ -13,3 +13,8 @@ For example:
 ## Recommended RAM and CPU for your server
 1 (simple) bot takes around 20mb RAM. <br>
 **Table**
+| Bots | RAM  | CPU     |
+|------|------|---------|
+| 1    | 20mb | Unknown |
+| 2    | 40mb | Unknown |
+| 3    | 60mb | Unknown |
