@@ -6,3 +6,6 @@ Upload the file to your pterodactyl server.
 In line 45 add the bots you want to start with `start( BOT FILE );`
 For example:
 `start('mybot')` when you start the server this will execute `node mybot.js`
+
+## Required NPM packages
+- Chalk
