@@ -1,3 +1,5 @@
+// Please skip this stuff and go to line 3
+
 const { exec } = require('child_process');
 const chalk = require('chalk');
 
@@ -38,11 +40,16 @@ function error(text) {
 
 
 
+
+
 // MAIN PROGRAM! :D
 
-start('bot1');
+start('bot1'); // It will automatically add `.js`
 start('bot2');
 
+
+
+// Please do not edit this code
 info('');
 info('');
 info('--------------')
