@@ -9,3 +9,7 @@ For example:
 
 ## Required NPM packages
 - Chalk
+
+## Recommended RAM and CPU for your server
+1 (simple) bot takes around 20mb RAM. <br>
+**Table**
