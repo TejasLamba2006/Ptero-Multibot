@@ -18,3 +18,6 @@ For example:
 | 1    | 20mb | Unknown |
 | 2    | 40mb | Unknown |
 | 3    | 60mb | Unknown |
+
+## Recommended hostings
+- [ModBotIC (40mb free)](https://discord.gg/amU34a6)
