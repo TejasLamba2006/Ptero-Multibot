@@ -1,4 +1,4 @@
-// Please skip this stuff and go to line 3
+// Please skip this stuff and go to line 45
 
 const { exec } = require('child_process');
 const chalk = require('chalk');
