@@ -20,4 +20,8 @@ For example:
 | 3    | 60mb | Unknown |
 
 ## Recommended hostings
-- [ModBotIC (40mb free)](https://discord.gg/amU34a6)
+- [Lawliet.Host (3.5GB free)](https://discord.gg/4P5VTFFCVg)
+
+Do u need a good minecraft and discord bot hosting? For only 2 invites you get 3.5GB of ram! 
+
+https://discord.gg/4P5VTFFCVg
